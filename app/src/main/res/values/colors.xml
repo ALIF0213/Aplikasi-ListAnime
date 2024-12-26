@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_700">#512DA8</color>
+
+    <color name="primaryColor">#6200EA</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="secondaryColor">#03DAC6</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="buttonColor">#6200EA</color>
+    <color name="darkPrimaryColor">#BB86FC</color>
+    <color name="darkPrimaryDarkColor">#3700B3</color>
+    <color name="darkSecondaryColor">#03DAC6</color>
+    <color name="darkBackgroundColor">#121212</color>
+    <color name="darkTextColor">#FFFFFF</color>
+    <color name="darkButtonColor">#BB86FC</color>
+</resources>

@@ -1,0 +1,208 @@
+<resources>
+    <string name="app_name">My Anime Favorit</string>
+    <string name="anime_name">Nama Anime</string>
+    <string name="description">Deskripsi Anime</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="rating_9_0">Rating: 9.0</string>
+    <string name="genre">Genre</string>
+    <string name="watching">Watching</string>
+    <string name="share">Share</string>
+    <string name="user">User</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="my_name">Muhammad Alif Leo</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_email">muhammadalifleo@gmail.com</string>
+    <string name="about_me">Saya adalah mahasiswa semester 7 jurusan Teknik Informatika dan Komputer yang mengikuti program Bangkit Academy dengan fokus pada pengembangan mobile (Mobile Development). Saya juga merupakan penerima beasiswa dari Bank Indonesia, yang telah memberi saya dukungan untuk mencapai potensi penuh di bidang akademik dan pengembangan diri. Selain itu, saya merupakan anggota Generasi Baru Indonesia (GenBI), di mana saya aktif dalam berbagai kegiatan sosial dan pengembangan masyarakat. Dengan latar belakang ini, saya berharap dapat terus berkembang dan berkontribusi dalam dunia teknologi serta memberi dampak positif bagi masyarakat.</string>
+    <string-array name="data_anime">
+        <item>Naruto Shippuden</item>
+        <item>Kimetsu No yaiba</item>
+        <item>Bleach</item>
+        <item>Hunter x Hunter</item>
+        <item>One Piece</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Black Clover</item>
+        <item>Fairy Tail</item>
+        <item>Spy x Family</item>
+        <item>Assassination Classroom</item>
+        <item>Kuroko no basket</item>
+        <item>My hero Academia</item>
+        <item>Dr. Stone</item>
+        <item>Dragon Ball Z</item>
+        <item>Sword Art Online</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>9.9</item>
+        //naruto
+        <item>8.6</item>
+        //kimetsu
+        <item>9.4</item>
+        //Bleach
+        <item>9.5</item>
+        //Hunter x Hunter
+        <item>9.8</item>
+        //One Piece
+        <item>8.9</item>
+        //jujutsu
+        <item>8.9</item>
+        //black clover
+        <item>9.1</item>
+        //fairy tail
+        <item>8.8</item>
+        //spy x family
+        <item>9.6</item>
+        //assassination classroom
+        <item>8.8</item>
+        //kuroko no basket
+        <item>8.9</item>
+        //my hero academia
+        <item>9.0</item>
+        // dr stone
+        <item>9.5</item>
+        //dragon ball z
+        <item>8.9</item>
+        //sword art online
+    </string-array>
+    <string-array name="data_genre">
+        <item>Action, Adventure, Fantasy</item> <!-- Naruto Shippuden -->
+        <item>Action, Supernatural, Historical</item> <!-- Kimetsu No Yaiba -->
+        <item>Action, Supernatural, Thriller</item> <!-- Bleach -->
+        <item>Action, Adventure, Fantasy</item> <!-- Hunter x Hunter -->
+        <item>Action, Adventure, Comedy</item> <!-- One Piece -->
+        <item>Action, Supernatural, Thriller</item> <!-- Jujutsu Kaisen -->
+        <item>Action, Fantasy, Magic</item> <!-- Black Clover -->
+        <item>Action, Adventure, Fantasy</item> <!-- Fairy Tail -->
+        <item>Action, Comedy, Spy</item> <!-- Spy x Family -->
+        <item>Action, Comedy, Supernatural</item> <!-- Assassination Classroom -->
+        <item>Sports, Drama, Comedy</item> <!-- Kuroko no Basket -->
+        <item>Action, Superpower, School</item> <!-- My Hero Academia -->
+        <item>Adventure, Sci-Fi, Post-Apocalyptic</item> <!-- Dr. Stone -->
+        <item>Action, Adventure, Superpower</item> <!-- Dragon Ball Z -->
+        <item>Action, Adventure, Fantasy</item> <!-- Sword Art Online -->
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/naruto_shippuden</item>
+        <item>@drawable/kimetsu_no_yaiba</item>
+        <item>@drawable/bleach</item>
+        <item>@drawable/hunter_x_hunter</item>
+        <item>@drawable/one_piece</item>
+        <item>@drawable/jujutsu_kaisen</item>
+        <item>@drawable/black_clover</item>
+        <item>@drawable/fairy_tail</item>
+        <item>@drawable/spy_x_family</item>
+        <item>@drawable/assassination_classroom</item>
+        <item>@drawable/kuroko_no_basket</item>
+        <item>@drawable/my_hero_academia</item>
+        <item>@drawable/dr_stone</item>
+        <item>@drawable/dragon_ball_z</item>
+        <item>@drawable/sword_art_online</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Naruto Shippuden mengikuti Naruto Uzumaki, seorang ninja muda yang bercita-cita menjadi Hokage. Setelah berlatih selama dua setengah tahun dengan Jiraiya, Naruto kembali ke Konoha lebih kuat dan lebih matang. Namun, misi utamanya adalah menyelamatkan sahabatnya, Sasuke Uchiha, yang telah bergabung dengan Orochimaru untuk menjadi lebih kuat. Sepanjang seri ini, Naruto menghadapi organisasi jahat bernama Akatsuki, yang berusaha menangkap para Jinchuriki seperti dirinya yang memiliki Kyuubi, rubah berekor sembilan.\n\n
+    Akatsuki menjadi ancaman terbesar bagi dunia ninja, dan Naruto bersama teman-temannya di Konoha harus bekerja keras untuk menghentikan mereka. Mereka menghadapi anggota-anggota Akatsuki yang memiliki kekuatan luar biasa, seperti Pain, yang mampu menghancurkan desa. Dalam perjalanannya, Naruto juga belajar mengendalikan kekuatan Kyuubi, sambil terus mencoba memahami arti perdamaian di dunia yang penuh konflik.\n\n
+    Selain pertarungan yang epik, Naruto Shippuden menampilkan perkembangan karakter yang mendalam, terutama antara Naruto dan Sasuke. Naruto berusaha keras untuk membawa Sasuke kembali dari kegelapan, sementara Sasuke terjebak dalam dendamnya terhadap Konoha. Perjalanan mereka berdua saling terhubung, menunjukkan pentingnya persahabatan dan pengampunan.\n\n
+    Naruto juga terlibat dalam Perang Dunia Ninja Keempat, di mana semua desa ninja bersatu melawan ancaman besar dari Madara Uchiha dan Kaguya Otsutsuki. Pertempuran besar ini menggambarkan skala epik dan menguji batasan kekuatan Naruto. Ia harus bekerja sama dengan teman-teman lamanya dan menghadapi banyak musuh yang lebih kuat dari yang pernah ia bayangkan.\n\n
+    Di akhir cerita, Naruto berhasil mencapai mimpinya untuk membawa perdamaian ke dunia ninja, meskipun harus menghadapi banyak pengorbanan. Seri ini tidak hanya tentang pertarungan fisik, tetapi juga perjuangan emosional, mental, dan spiritual untuk mencapai kedamaian sejati di dunia yang penuh kekacauan.
+        </item>
+
+        <item>Kimetsu no Yaiba berpusat pada Tanjiro Kamado, seorang anak yang baik hati dan pekerja keras yang hidup bahagia bersama keluarganya. Suatu hari, keluarganya dibantai oleh iblis, dan adiknya, Nezuko, berubah menjadi iblis. Meski begitu, Nezuko tetap mempertahankan sisi kemanusiaannya, dan Tanjiro bersumpah untuk mencari cara menyembuhkannya. Dengan bimbingan Urokodaki, Tanjiro bergabung dengan korps pembasmi iblis.\n\n
+    Tanjiro berlatih keras untuk menguasai teknik Pernapasan Air, teknik khusus yang digunakan oleh pemburu iblis. Dalam perjalanannya, ia bertemu dengan teman-teman baru seperti Zenitsu dan Inosuke, yang ikut serta dalam pertempuran melawan para iblis. Masing-masing memiliki kepribadian dan keterampilan yang unik, menambah dinamika kelompok yang menarik.\n\n
+    Konflik utama dalam Kimetsu no Yaiba adalah perjuangan Tanjiro melawan iblis-iblis yang kuat dan kejam, termasuk Kibutsuji Muzan, raja iblis yang bertanggung jawab atas penderitaannya. Muzan sangat sulit dilawan karena kekuatannya yang luar biasa dan kemampuannya untuk mengubah manusia menjadi iblis. Tanjiro menghadapi banyak pertempuran brutal, tetapi selalu berpegang teguh pada tekadnya untuk menyelamatkan Nezuko.\n\n
+    Hubungan antara Tanjiro dan Nezuko juga menjadi salah satu inti dari cerita. Meskipun Nezuko adalah iblis, ikatan keluarga mereka tetap kuat. Tanjiro selalu melindunginya dari ancaman luar, dan Nezuko berulang kali menunjukkan bahwa dia masih memiliki sifat manusiawi, bahkan ketika dihadapkan dengan musuh yang kejam. Hubungan mereka yang kuat memberikan fondasi emosional yang mendalam dalam cerita.\n\n
+    Dalam perjalanannya, Tanjiro tumbuh menjadi pemburu iblis yang lebih kuat dan bijaksana, tetapi selalu mempertahankan sifat lembut dan empatinya. Kimetsu no Yaiba menampilkan kisah yang intens dan penuh aksi, tetapi juga dipenuhi dengan momen-momen yang menyentuh hati, menjadikannya salah satu seri yang paling dicintai oleh penggemar anime di seluruh dunia.
+        </item>
+
+        <item>Bleach mengikuti Ichigo Kurosaki, seorang remaja yang memiliki kemampuan untuk melihat roh. Kehidupan Ichigo berubah drastis ketika ia bertemu dengan Rukia Kuchiki, seorang Shinigami (Dewa Kematian) yang melindungi manusia dari roh jahat yang disebut Hollow. Ketika Rukia terluka dalam pertempuran dengan Hollow, ia memindahkan kekuatannya kepada Ichigo, yang kini harus mengambil peran sebagai pengganti Shinigami.\n\n
+    Dengan kekuatan barunya, Ichigo terlibat dalam banyak pertempuran melawan Hollow, sambil mencoba menyeimbangkan kehidupan sekolahnya. Namun, masalah tidak berhenti di situ. Ichigo akhirnya harus pergi ke Soul Society, dunia para Shinigami, untuk menyelamatkan Rukia yang ditangkap dan dijatuhi hukuman mati karena memindahkan kekuatannya ke manusia. Di Soul Society, Ichigo menghadapi banyak tantangan dan musuh yang jauh lebih kuat.\n\n
+    Seiring berjalannya waktu, Ichigo tidak hanya menghadapi Hollow, tetapi juga ancaman baru seperti Arrancar, sekelompok Hollow yang memiliki kekuatan Shinigami. Dalam pertempuran epik ini, Ichigo terus mengembangkan kekuatannya, termasuk kemampuan untuk menggunakan bentuk Hollow dalam dirinya sendiri. Bleach penuh dengan pertarungan yang dinamis dan karakter-karakter yang penuh warna.\n\n
+    Selain aksi, Bleach juga menawarkan intrik dan drama di dunia roh. Banyak rahasia terungkap mengenai asal-usul kekuatan Ichigo, tujuan tersembunyi dari organisasi seperti Aizen dan Espada, serta hubungan kompleks antara manusia dan roh. Konflik batin Ichigo antara kehidupan manusia biasa dan tugasnya sebagai Shinigami menjadi pusat cerita, menjadikannya karakter yang berkembang seiring berjalannya waktu.\n\n
+    Bleach menjadi salah satu seri Shonen yang paling ikonik berkat perpaduan antara aksi, humor, drama, dan mitologi yang kaya. Dunia yang diciptakan dalam Bleach penuh dengan misteri dan petualangan, dan pengembangan karakter yang solid menjadikannya seri yang tak terlupakan.
+        </item>
+
+        <item>Hunter x Hunter menceritakan petualangan Gon Freecss, seorang anak berusia dua belas tahun yang ingin menjadi seorang Hunter, profesi elit yang memiliki izin untuk mengeksplorasi dunia, berburu makhluk-makhluk berbahaya, dan menemukan harta karun. Gon terinspirasi oleh ayahnya, Ging Freecss, seorang Hunter legendaris yang meninggalkan Gon saat masih kecil. Gon bertekad menemukan ayahnya dan membuktikan dirinya sebagai Hunter yang hebat.\n\n
+    Untuk mencapai tujuannya, Gon harus lulus Ujian Hunter, sebuah ujian yang terkenal sangat sulit dan berbahaya. Dalam ujian ini, Gon bertemu dengan teman-teman baru seperti Killua Zoldyck, Leorio, dan Kurapika, yang masing-masing memiliki tujuan dan latar belakang yang berbeda. Mereka menghadapi berbagai tantangan, dari ujian fisik hingga tes mental yang menguji batas-batas mereka.\n\n
+    Setelah lulus ujian, petualangan Gon dan teman-temannya tidak berhenti. Mereka menghadapi musuh-musuh kuat, termasuk Phantom Troupe, kelompok kriminal yang memburu Kurapika. Selain itu, mereka juga harus berhadapan dengan Chimera Ant, makhluk mengerikan yang mengancam umat manusia. Hunter x Hunter dikenal karena alur cerita yang cerdas dan kompleks, serta pertarungan yang membutuhkan strategi lebih dari sekadar kekuatan fisik.\n\n
+    Gon juga belajar tentang Nen, energi kehidupan yang dapat dimanipulasi oleh para Hunter untuk memperkuat kemampuan mereka. Setiap karakter memiliki teknik Nen yang unik, menciptakan variasi dalam pertempuran. Gon terus berkembang sebagai Hunter, tetapi juga menghadapi konflik emosional, terutama ketika ia berhadapan dengan kenyataan bahwa menjadi Hunter bukanlah jalan yang mudah.\n\n
+    Dengan perpaduan antara petualangan, pertarungan, dan pengembangan karakter yang mendalam, Hunter x Hunter menonjol sebagai salah satu seri anime terbaik. Kisah Gon yang terus mengejar mimpinya sambil menghadapi tantangan besar menawarkan cerita yang kaya dan penuh emosi.
+        </item>
+
+        <item>One Piece menceritakan petualangan Monkey D. Luffy, seorang pemuda yang bercita-cita menjadi Raja Bajak Laut dengan menemukan harta karun legendaris, "One Piece." Luffy memiliki kekuatan unik dari Buah Iblis Gomu Gomu yang membuat tubuhnya bisa meregang seperti karet. Namun, impiannya tidak mudah diraih karena lautan dipenuhi oleh bajak laut lain, angkatan laut, dan makhluk-makhluk berbahaya.\n\n
+    Dalam perjalanannya, Luffy membentuk kru bajak lautnya sendiri yang dinamai Bajak Laut Topi Jerami, terdiri dari orang-orang dengan kemampuan dan impian unik. Mereka berlayar melintasi lautan berbahaya bernama Grand Line, di mana mereka menghadapi berbagai musuh kuat seperti Seven Warlords of the Sea, Yonko, dan angkatan laut. Setiap anggota kru memiliki cerita latar belakang yang kuat, dari Zoro yang ingin menjadi pendekar pedang terkuat hingga Nami yang ingin menggambar peta seluruh dunia.\n\n
+    One Piece terkenal karena cerita yang penuh petualangan dan humor, namun di baliknya tersimpan tema-tema mendalam tentang persahabatan, kebebasan, dan impian. Luffy dan krunya sering kali terlibat dalam konflik besar yang melibatkan negara-negara, kerajaan, dan ras-ras unik seperti Fishmen dan Skypieans. Dalam setiap arc, tantangan yang dihadapi Luffy menjadi semakin berat, menambah ketegangan dan skala cerita.\n\n
+    Selain pertarungan epik, One Piece juga mengeksplorasi misteri dunia yang kompleks, seperti sejarah Void Century, kekuatan misterius dari Buah Iblis, dan Pemerintah Dunia yang penuh intrik. Meskipun cerita ini penuh dengan aksi dan komedi, sering kali ada momen-momen emosional yang mengungkapkan lebih banyak tentang karakter-karakter dan dunia yang mereka huni.\n\n
+    One Piece adalah salah satu anime terpanjang yang terus berkembang, namun tetap mempertahankan kualitas ceritanya. Dengan pengembangan karakter yang mendalam, dunia yang luas, dan konflik yang menarik, One Piece telah menjadi salah satu anime paling dicintai di dunia, menawarkan petualangan yang tak ada habisnya bagi para penggemarnya.
+        </item>
+
+        <item>Jujutsu Kaisen mengisahkan tentang Yuji Itadori, seorang siswa SMA yang tanpa sengaja memakan jimat kutukan berbentuk jari dari Ryomen Sukuna, salah satu kutukan paling kuat dalam sejarah. Dengan jari Sukuna di dalam tubuhnya, Yuji mendapatkan kekuatan luar biasa, tetapi juga menjadi target kutukan lain serta sekolah jujutsu yang bertujuan untuk membasmi kutukan tersebut. Ia pun bergabung dengan Tokyo Jujutsu High untuk belajar cara melawan kutukan dan mengontrol kekuatan Sukuna dalam dirinya.\n\n
+    Di sekolah jujutsu, Yuji bertemu dengan teman-teman baru seperti Megumi Fushiguro dan Nobara Kugisaki, yang juga memiliki kemampuan untuk melawan kutukan. Mereka dilatih oleh Satoru Gojo, seorang guru yang dikenal sebagai penyihir jujutsu terkuat. Bersama-sama, mereka menghadapi berbagai roh kutukan yang menebar teror di dunia manusia. Setiap pertarungan dipenuhi dengan strategi dan penggunaan teknik jujutsu yang unik.\n\n
+    Konflik utama Jujutsu Kaisen terletak pada pertarungan antara manusia dan roh-roh kutukan yang dipicu oleh emosi negatif seperti kebencian dan kesedihan. Yuji, yang memiliki tubuh dua kepribadian dengan Sukuna di dalamnya, sering kali harus berjuang untuk mempertahankan kendali atas tubuhnya sendiri. Pertarungan psikologis ini menambah dimensi lain dalam karakter Yuji, yang tidak hanya harus bertarung dengan kutukan, tetapi juga dirinya sendiri.\n\n
+    Selain aksi, Jujutsu Kaisen juga menawarkan elemen horor dan supernatural yang menarik. Dunia yang dibangun oleh seri ini penuh dengan rahasia, seperti asal-usul kutukan dan tujuan sebenarnya dari organisasi yang mengontrol sekolah jujutsu. Seri ini juga menampilkan dinamika karakter yang kuat, dengan banyak karakter memiliki latar belakang dan motivasi yang mendalam.\n\n
+    Dengan gaya animasi yang memukau dan cerita yang intens, Jujutsu Kaisen telah menjadi salah satu anime modern paling populer. Kombinasi antara pertarungan epik, horor psikologis, dan karakter-karakter yang kompleks membuatnya sangat menarik bagi penggemar anime aksi dan supernatural.
+        </item>
+
+        <item>Black Clover bercerita tentang Asta, seorang anak yatim piatu yang tumbuh di dunia di mana sihir adalah segalanya. Namun, Asta terlahir tanpa kemampuan sihir, sesuatu yang sangat langka di dunia ini. Meskipun demikian, ia bertekad untuk menjadi Kaisar Sihir, gelar tertinggi di kerajaan Clover. Bersama dengan sahabatnya, Yuno, yang memiliki kekuatan sihir yang luar biasa, Asta berlatih keras untuk mewujudkan mimpinya.\n\n
+    Dalam upaya mencapai tujuannya, Asta bergabung dengan tim Magic Knights bernama Black Bulls, kelompok yang terkenal dengan anggotanya yang eksentrik. Di sana, Asta berjuang menggunakan Grimoire lima daun miliknya, yang memberinya kekuatan anti-sihir. Kekuatan ini memungkinkan Asta untuk melawan musuh-musuh kuat yang bergantung pada sihir, menjadikannya aset penting bagi timnya.\n\n
+    Konflik utama dalam Black Clover berkisar pada pertarungan antara manusia dan ancaman dari kerajaan dan dunia lain. Asta dan tim Black Bulls sering kali harus menghadapi musuh-musuh kuat seperti Eye of the Midnight Sun, sebuah organisasi yang berusaha menghancurkan kerajaan Clover. Meskipun Asta tidak memiliki sihir, keberanian, kerja keras, dan kekuatannya yang unik membuatnya menjadi ancaman bagi musuh-musuh mereka.\n\n
+    Tema sentral Black Clover adalah ketekunan dan keyakinan pada diri sendiri. Meskipun Asta tidak memiliki kemampuan sihir, ia tidak pernah menyerah untuk mencapai impiannya. Persahabatannya dengan Yuno juga menjadi salah satu elemen penting dalam cerita, di mana mereka bersaing secara sehat untuk menjadi yang terbaik, meskipun berasal dari latar belakang yang sangat berbeda.\n\n
+    Dengan pertarungan yang seru, pengembangan karakter yang menarik, dan tema yang menginspirasi, Black Clover telah menjadi salah satu anime Shonen paling populer. Perjalanan Asta untuk mengatasi kelemahan dirinya dan mencapai impiannya mengajarkan pentingnya kerja keras dan ketekunan dalam menghadapi segala rintangan.
+        </item>
+
+        <item>Fairy Tail mengikuti petualangan Natsu Dragneel, seorang penyihir api dari guild Fairy Tail yang terkenal karena kekuatan anggotanya serta kekacauan yang sering mereka ciptakan. Bersama dengan teman-temannya, Lucy Heartfilia, Gray Fullbuster, Erza Scarlet, dan kucing terbangnya Happy, Natsu melakukan misi-misi berbahaya sambil berusaha menemukan ayah angkatnya, naga api bernama Igneel, yang menghilang bertahun-tahun sebelumnya.\n\n
+    Guild Fairy Tail terkenal karena anggotanya yang eksentrik namun memiliki ikatan kuat seperti keluarga. Setiap anggota guild memiliki kekuatan sihir yang unik, dari Natsu dengan sihir api Dragon Slayer hingga Erza yang dapat mengganti senjata dan baju tempurnya dalam sekejap. Mereka bekerja bersama untuk melindungi guild mereka dari ancaman luar dan menjalankan misi-misi yang sering kali melibatkan pertarungan epik.\n\n
+    Fairy Tail menampilkan banyak pertarungan besar melawan musuh-musuh kuat seperti Oracion Seis, Grimoire Heart, dan Tartaros, organisasi jahat yang ingin menguasai dunia sihir. Dalam setiap pertempuran, ikatan persahabatan dan kepercayaan antara anggota guild menjadi kunci kemenangan mereka. Seri ini menekankan pentingnya persahabatan dan loyalitas, nilai-nilai yang selalu dijunjung tinggi oleh Fairy Tail.\n\n
+    Selain aksi, Fairy Tail juga penuh dengan humor dan momen-momen emosional yang memperlihatkan kedalaman hubungan antar karakter. Natsu dan teman-temannya sering kali harus menghadapi pilihan-pilihan sulit, tetapi mereka selalu saling mendukung. Bahkan dalam situasi yang paling gelap, mereka tidak pernah kehilangan harapan dan selalu berjuang bersama.\n\n
+    Dengan dunia sihir yang luas, karakter-karakter yang penuh warna, dan alur cerita yang penuh petualangan, Fairy Tail adalah anime yang berhasil memikat hati para penggemar di seluruh dunia. Seri ini menawarkan kombinasi sempurna antara aksi, komedi, dan drama, menjadikannya salah satu anime fantasi paling dicintai.
+        </item>
+
+        <item>Spy x Family bercerita tentang Loid Forger, seorang mata-mata dengan nama sandi Twilight, yang ditugaskan dalam misi rahasia untuk menjaga perdamaian antara dua negara yang sedang dalam ketegangan. Untuk melancarkan misinya, Loid harus membentuk keluarga palsu agar bisa mendekati targetnya. Ia mengadopsi seorang anak yatim bernama Anya dan menikahi seorang wanita bernama Yor Briar, tanpa mengetahui bahwa Anya adalah seorang esper yang bisa membaca pikiran, dan Yor adalah seorang pembunuh bayaran.\n\n
+    Loid menjalankan misinya dengan sangat hati-hati, sementara Anya menggunakan kemampuannya untuk membaca pikiran Loid dan Yor untuk tetap mempertahankan "keluarga" mereka. Meskipun Loid hanya melihat keluarga ini sebagai sarana untuk misinya, ia mulai merasakan kehangatan keluarga dan perlahan-lahan tumbuh kasih sayang yang sebenarnya, meskipun ia tidak menyadarinya. Anya, di sisi lain, menggunakan pengetahuan dari pikirannya untuk membantu Loid dalam misinya, sambil tetap berusaha menyembunyikan identitasnya sebagai esper.\n\n
+    Di dalam keluarga ini, banyak adegan komedi yang dihasilkan dari situasi di mana mereka semua menyembunyikan identitas mereka. Yor, yang dikenal sebagai "Putri Duri," harus menyeimbangkan kehidupan sebagai istri dan pembunuh bayaran, sedangkan Loid harus terus berpura-pura menjadi ayah dan suami yang sempurna. Anya, meskipun seorang anak kecil, memainkan peran kunci dengan mencoba menjaga harmoni di antara mereka, menggunakan kemampuannya untuk membaca pikiran untuk menghindari masalah.\n\n
+    Selain dinamika keluarga yang unik, Spy x Family juga menghadirkan ketegangan dari misi-misi mata-mata Loid yang penuh dengan intrik politik dan aksi. Loid harus menyelamatkan dunia dari perang, sambil menjaga keseimbangan kehidupan keluarganya yang palsu. Konflik batin Loid antara tugasnya sebagai mata-mata dan perasaannya sebagai seorang ayah mulai menjadi salah satu fokus utama dalam cerita.\n\n
+    Dengan gabungan antara aksi, komedi, dan hubungan emosional yang mendalam, Spy x Family telah menarik perhatian banyak penggemar di seluruh dunia. Keseimbangan antara kehidupan sehari-hari yang penuh humor dan misi-misi berbahaya yang penuh ketegangan menjadikan anime ini unik dan menyenangkan untuk diikuti.
+        </item>
+
+        <item>Assassination Classroom mengikuti kehidupan murid-murid kelas 3-E di Sekolah Menengah Kunugigaoka yang diberikan tugas yang tidak biasa: membunuh guru mereka, Koro-sensei, sebelum ia menghancurkan bumi. Koro-sensei adalah makhluk misterius yang memiliki kekuatan luar biasa, termasuk kemampuan untuk bergerak dengan kecepatan super dan kebal terhadap senjata konvensional. Meskipun ancaman ini sangat serius, Koro-sensei justru menjadi guru yang sangat peduli dan berdedikasi, membantu murid-muridnya berkembang baik dalam pelajaran maupun kehidupan.\n\n
+    Setiap murid di kelas 3-E memiliki latar belakang yang unik, dengan banyak di antaranya mengalami kegagalan akademis dan sosial. Koro-sensei, dengan caranya yang tidak lazim, menggunakan berbagai metode yang aneh namun efektif untuk membantu mereka mengatasi kekurangan mereka. Selama proses belajar mengajar, mereka juga harus merencanakan berbagai cara untuk membunuh Koro-sensei, yang sering kali berakhir dengan kegagalan karena kemampuan Koro-sensei yang sangat superior.\n\n
+    Di sisi lain, Koro-sensei bukan hanya menjadi target pembunuhan, tetapi juga guru yang mengajarkan nilai-nilai penting seperti tanggung jawab, kerja keras, dan pentingnya percaya diri. Ia memperlakukan setiap murid dengan perhatian khusus, mengenali potensi mereka yang sering kali tidak disadari oleh mereka sendiri. Pembelajaran di kelas ini lebih dari sekadar akademik, tetapi juga tentang bagaimana mereka bisa menghadapi tantangan hidup.\n\n
+    Assassination Classroom juga penuh dengan momen-momen emosional di mana murid-murid mulai menyadari bahwa, meskipun tugas mereka adalah membunuh Koro-sensei, mereka tumbuh menjadi lebih kuat dan lebih baik berkat ajarannya. Meskipun Koro-sensei adalah ancaman bagi dunia, ia menjadi figur yang sangat dihormati dan dicintai oleh murid-muridnya, menciptakan konflik batin ketika mereka harus memilih antara menyelamatkan dunia atau mempertahankan hubungan mereka dengan sang guru.\n\n
+    Dengan perpaduan antara aksi, komedi, dan drama emosional, Assassination Classroom menawarkan cerita yang unik tentang pertumbuhan pribadi, pembelajaran hidup, dan hubungan yang mendalam antara guru dan murid. Tema-tema seperti pengorbanan, tanggung jawab, dan rasa percaya diri menjadi inti dari anime ini, membuatnya menjadi pengalaman yang tak terlupakan bagi para penontonnya.
+        </item>
+
+        <item>Kuroko no Basket menceritakan tentang Kuroko Tetsuya, seorang pemain basket yang memiliki kemampuan unik untuk "menghilang" di lapangan dan membuat assist yang tak terduga, dan Kagami Taiga, seorang pemain berbakat yang baru kembali dari Amerika. Bersama-sama, mereka berusaha membawa tim basket SMA Seirin menjadi tim terbaik di Jepang dengan menghadapi "Generation of Miracles," sekelompok pemain basket jenius yang memiliki kekuatan luar biasa.\n\n
+    Kuroko adalah mantan anggota "Generation of Miracles," tetapi ia memutuskan untuk bermain dengan caranya sendiri, yang lebih fokus pada kerja tim dan permainan yang tidak egois. Sementara itu, Kagami adalah pemain yang sangat berbakat dan memiliki ambisi besar untuk menjadi yang terbaik. Keduanya membentuk kemitraan yang unik, di mana Kuroko memberikan assist yang sempurna dan Kagami mencetak poin dengan kekuatan luar biasa.\n\n
+    Setiap pertandingan yang mereka hadapi penuh dengan ketegangan dan strategi, di mana mereka harus melawan anggota "Generation of Miracles," yang masing-masing memiliki kemampuan yang hampir supernatural. Mulai dari pemain dengan kemampuan menembak tiga poin yang sempurna hingga pemain yang bisa melakukan dunk dengan kekuatan besar, setiap tantangan yang dihadapi Kuroko dan Kagami semakin berat seiring dengan kemajuan mereka di turnamen basket nasional.\n\n
+    Kuroko no Basket bukan hanya tentang olahraga, tetapi juga tentang persahabatan, kerja keras, dan tekad untuk mengatasi rintangan. Tim Seirin yang terdiri dari berbagai karakter dengan kepribadian dan kemampuan yang berbeda harus belajar untuk bekerja sama dan mempercayai satu sama lain di setiap pertandingan. Hubungan antara Kuroko dan Kagami, serta dinamika tim, menjadi inti dari perkembangan cerita.\n\n
+    Dengan animasi yang dinamis, pertandingan yang mendebarkan, dan pengembangan karakter yang kuat, Kuroko no Basket menjadi salah satu anime olahraga paling populer. Cerita ini mengajarkan bahwa kemenangan bukan hanya tentang bakat individu, tetapi juga tentang kerja sama tim dan dedikasi untuk menjadi lebih baik.
+        </item>
+
+        <item>My Hero Academia bercerita tentang Izuku Midoriya, seorang anak yang terlahir tanpa kekuatan super (Quirk) di dunia di mana hampir semua orang memiliki Quirk. Meskipun begitu, Izuku bercita-cita menjadi pahlawan hebat seperti idolanya, All Might, pahlawan nomor satu di dunia. Hidupnya berubah ketika ia bertemu All Might, yang melihat potensi dalam diri Izuku dan memutuskan untuk mewariskan kekuatannya, One For All, kepada Izuku.\n\n
+    Izuku kemudian diterima di UA High School, akademi khusus untuk melatih calon pahlawan. Di sana, ia bertemu dengan teman-teman baru seperti Bakugo, Todoroki, dan Uraraka, serta menghadapi berbagai tantangan fisik dan mental untuk menguasai kekuatan barunya. Meski masih belum terbiasa dengan Quirk One For All, Izuku menunjukkan tekad dan keberaniannya dalam berbagai situasi yang berbahaya.\n\n
+    Dunia My Hero Academia dipenuhi dengan berbagai pahlawan dan penjahat yang memiliki Quirk unik. Sementara Izuku berusaha menjadi pahlawan, dunia luar diwarnai oleh ancaman organisasi penjahat seperti League of Villains, yang dipimpin oleh Tomura Shigaraki. Izuku dan teman-temannya harus berlatih keras untuk melindungi masyarakat dari serangan-serangan yang datang.\n\n
+    Konflik utama dalam cerita ini berkisar pada pertarungan antara pahlawan dan penjahat, serta perjuangan Izuku untuk menguasai kekuatan One For All. Setiap pertempuran menuntutnya untuk mengatasi keterbatasan dirinya dan menemukan cara baru untuk menggunakan Quirk-nya secara efektif. Selain itu, hubungan antara Izuku dan All Might, yang perlahan-lahan kehilangan kekuatannya, menjadi salah satu elemen emosional yang kuat dalam cerita.\n\n
+    My Hero Academia menonjol dengan pesan-pesan tentang keberanian, kerja keras, dan pentingnya memiliki hati yang kuat untuk menjadi pahlawan. Seri ini tidak hanya menawarkan aksi dan pertarungan epik, tetapi juga perjalanan emosional dari seorang anak yang berusaha menggapai impiannya di dunia yang penuh dengan tantangan.
+        </item>
+
+        <item>Dr. Stone mengikuti Senku Ishigami, seorang remaja jenius yang bercita-cita menjadi ilmuwan. Suatu hari, sebuah fenomena misterius menyebabkan seluruh umat manusia berubah menjadi batu. Setelah ribuan tahun terperangkap, Senku terbangun dan menemukan dunia yang hancur, tanpa teknologi dan peradaban. Dengan semangat dan pengetahuannya tentang sains, ia bertekad untuk membangkitkan umat manusia dan memulihkan peradaban dari nol.\n\n
+    Dalam perjalanannya, Senku bertemu dengan teman-teman baru, termasuk Taiju Oki, sahabatnya yang memiliki kekuatan fisik yang hebat, dan Yuzuriha Ogawa, cinta pertamanya. Bersama-sama, mereka mengembangkan berbagai penemuan ilmiah untuk membantu membangkitkan orang-orang yang terjebak dalam keadaan batu. Dari menciptakan obat-obatan hingga membangun infrastruktur, Senku menggunakan ilmu pengetahuan untuk membangun kembali dunia dan berjuang melawan berbagai tantangan.\n\n
+    Selain aspek sains, Dr. Stone juga menggali tema persahabatan, pengorbanan, dan kekuatan tekad. Karakter-karakter dalam anime ini memiliki latar belakang yang beragam dan masing-masing berkontribusi dengan cara yang unik dalam misi mereka. Hubungan antara Senku dan teman-temannya menunjukkan betapa pentingnya dukungan sosial dalam menghadapi kesulitan, serta bagaimana kekuatan bersama dapat mengatasi rintangan yang tampaknya tidak mungkin.\n\n
+    Animasi dan desain karakter dalam Dr. Stone sangat menarik, dengan visual yang cerah dan detail yang menawan. Setiap penemuan dan eksperimen yang dilakukan oleh Senku ditampilkan dengan jelas, memberikan edukasi sekaligus hiburan kepada penonton. Cerita yang dikembangkan dengan baik juga menjaga ketegangan dan rasa ingin tahu, membuat penonton terus terlibat dengan setiap episode.\n\n
+    Dengan kombinasi antara sains, petualangan, dan drama, Dr. Stone menawarkan pandangan yang segar tentang genre shounen. Pesan tentang pentingnya ilmu pengetahuan dan kerja keras sangat relevan, terutama di dunia modern saat ini. Anime ini tidak hanya menghibur tetapi juga memberikan inspirasi bagi penonton untuk mengeksplorasi dan menghargai dunia sains.
+        </item>
+
+        <item>Dragon Ball Z adalah kelanjutan dari anime legendaris Dragon Ball, yang mengikuti petualangan Goku dan teman-temannya saat mereka melindungi Bumi dari berbagai ancaman luar angkasa. Dalam cerita ini, Goku telah dewasa dan menjadi seorang pejuang yang sangat kuat. Bersama dengan teman-temannya seperti Vegeta, Piccolo, dan Gohan, mereka menghadapi musuh-musuh baru yang lebih kuat dari sebelumnya, termasuk Frieza, Cell, dan Majin Buu.\n\n
+    Setiap arc dalam Dragon Ball Z memperkenalkan karakter baru dan kekuatan yang luar biasa, serta pertarungan yang mendebarkan. Goku dan teman-temannya harus berlatih keras dan meningkatkan kemampuan mereka untuk menghadapi tantangan yang semakin sulit. Transformasi menjadi Super Saiyan menjadi salah satu elemen ikonik dalam cerita, di mana Goku dan Vegeta mencapai tingkat kekuatan yang belum pernah dilihat sebelumnya.\n\n
+    Selain pertarungan yang spektakuler, Dragon Ball Z juga menggali tema persahabatan, pengorbanan, dan keberanian. Karakter-karakter dalam anime ini memiliki hubungan yang dalam, dan mereka saling mendukung dalam menghadapi musuh yang berbahaya. Pertemuan antara Goku dan Vegeta, yang awalnya adalah musuh, tetapi kemudian menjadi sekutu, menunjukkan bagaimana hubungan dapat berkembang seiring waktu.\n\n
+    Animasi dalam Dragon Ball Z telah menjadi standar untuk anime aksi, dengan pertarungan yang penuh energi dan gerakan yang dinamis. Musik yang mendukung dan suara karakter juga menambah suasana, menjadikan setiap momen pertarungan terasa lebih mendalam dan mengesankan. Kesan nostalgia bagi penggemar lama serta daya tarik bagi penonton baru membuat anime ini tetap relevan hingga saat ini.\n\n
+    Dengan alur cerita yang kaya, karakter yang kuat, dan pertarungan yang mendebarkan, Dragon Ball Z adalah salah satu anime paling berpengaruh dalam sejarah. Pesan tentang keberanian untuk menghadapi tantangan dan kekuatan persahabatan akan terus diingat oleh penggemar di seluruh dunia.
+        </item>
+
+        <item>Sword Art Online mengikuti Kirito, seorang pemain game yang terjebak dalam permainan virtual reality yang mematikan. Setelah masuk ke dunia Sword Art Online, ia menyadari bahwa jika dia mati dalam permainan, dia juga akan mati di dunia nyata. Bersama dengan pemain lain, termasuk Asuna, Kirito harus berjuang untuk menyelesaikan permainan dan menemukan cara untuk keluar.\n\n
+    Seiring berjalannya cerita, Kirito dan Asuna mengembangkan hubungan yang dalam di tengah ketegangan dan bahaya yang mengelilingi mereka. Mereka tidak hanya harus menghadapi musuh dan tantangan dalam permainan, tetapi juga berjuang dengan perasaan dan cinta yang berkembang di antara mereka. Hubungan mereka menjadi salah satu inti dari cerita, menggambarkan bagaimana cinta dapat tumbuh bahkan dalam situasi yang paling sulit.\n\n
+    Selain aksi dan petualangan, Sword Art Online mengeksplorasi tema tentang identitas dan kehidupan di dunia virtual. Karakter-karakter dalam anime ini harus menghadapi konsekuensi dari tindakan mereka dan mencari arti dari kehidupan dan hubungan di dunia yang dikuasai oleh teknologi. Cerita ini mengajak penonton untuk mempertimbangkan bagaimana realitas dan virtualitas saling berinteraksi.\n\n
+    Animasi dalam Sword Art Online sangat menakjubkan, dengan desain karakter yang menarik dan latar belakang yang detail. Pertarungan dan adegan aksi dieksekusi dengan baik, memberikan pengalaman menonton yang mendebarkan. Musik yang mengiringi juga menambah kedalaman emosional, membuat penonton terhubung dengan karakter dan perasaan mereka.\n\n
+    Dengan kombinasi antara petualangan, drama, dan eksplorasi tema yang mendalam, Sword Art Online telah menjadi salah satu anime yang paling populer di era modern. Pesan tentang cinta, keberanian, dan pencarian jati diri membuatnya relevan dan menginspirasi bagi banyak orang.
+        </item>
+    </string-array>
+</resources>
